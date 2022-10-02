@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey, I'm currently a Lead Analytics Engineer @joon-solutions, we do data stack but the modern way.
+
+# What I can do
+```sql
+select
+    'sql' as core_skill,
+    'dbt' as transformation_tool,
+    'airbyte' || 'stitch' || 'fivetran' as extraction_load,
+    'airflow' as orchestration,
+    'bigquery' || 'snowflake' as data_warehouse
+    'gcp' as cloud_platform
+from skills
+```
