@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **thieenq/thieenq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,14 +17,22 @@ Here are some ideas to get you started:
 
 Hey, I'm currently a Lead Analytics Engineer @joon-solutions, we do data stack but the modern way.
 
-# What I can do
+## What I can do
 ```sql
 select
-    'sql' as core_skill,
+    'sql' || 'python' || 'c' as programming_languages,
     'dbt' as transformation_tool,
-    'airbyte' || 'stitch' || 'fivetran' as extraction_load,
-    'airflow' as orchestration,
+    'airbyte' || 'stitch' || 'fivetran' as extraction_load_tool,
+    'airflow' as orchestration_tool,
     'bigquery' || 'snowflake' as data_warehouse
     'gcp' as cloud_platform
-from skills
+from technicall_skills
+```
+
+## What my business expertise is
+```sql
+select
+    'churn analysis' || 'basket analysis' || 'merchandising analysis' as ecommerce,
+    'credit scoring' || 'risk analysis' as banking_and_finance
+from biz_understanding
 ```
