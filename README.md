@@ -36,3 +36,9 @@ select
     'credit scoring' || 'risk analysis' as banking_and_finance
 from biz_understanding
 ```
+
+<p align="center">
+  <a href="https://buymeacoffee.com/hoangtt">
+    <img src="gif/buymeacoffee.gif" />
+  </a>
+</p>
