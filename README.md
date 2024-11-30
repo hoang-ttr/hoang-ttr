@@ -15,17 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey, I'm currently a Lead Analytics Engineer @joon-solutions, we do data stack but the modern way.
+Hey, I'm currently an Engineer@[Hydrolix](https://github.com/hydrolix)
+
+I'm passionate about anyt data
 
 ## What I can do
 ```sql
 select
     'sql' || 'python' || 'c' as programming_languages,
-    'dbt' as transformation_tool,
-    'airbyte' || 'stitch' || 'fivetran' as extraction_load_tool,
-    'airflow' as orchestration_tool,
-    'bigquery' || 'snowflake' as data_warehouse
-    'gcp' as cloud_platform
+    'dbt' as transformation_tools,
+    'spark' || 'airbyte' || 'fivetran' as extraction_load_tools,
+    'airflow' || 'dagster' as orchestration_tools,
+    'looker' || 'grafana' || 'superset' as visualisation_tools,
+    'bigquery' || 'snowflake' || 'hydrolix'  as data_warehouses
+    'gcp' as cloud_platforms
 from technicall_skills
 ```
 
@@ -34,6 +37,7 @@ from technicall_skills
 select
     'churn analysis' || 'basket analysis' || 'merchandising analysis' as ecommerce,
     'credit scoring' || 'risk analysis' as banking_and_finance
+    'observability' || 'risk analysis' as cdn
 from biz_understanding
 ```
 
